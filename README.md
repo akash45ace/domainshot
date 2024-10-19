@@ -5,7 +5,8 @@ Domainshot is a tool for automatically capturing screenshots of a large number o
 # Installation and Usage
 1. Clone the repository: git clone https://github.com/akash45ace/domainshot.git
 2. cd domainshot
-3. domainshot.py subdomain_file_name (check -h for more options)
+3. pip install -r requirements.txt
+4. domainshot.py subdomain_file_name (check -h for more options)
 
 # Features
 1. Bulk Screenshot Capture: Quickly take screenshots of numerous hosts in one go.
