@@ -8,11 +8,11 @@ Domainshot is a tool for automatically capturing screenshots of a large number o
 3. domainshot.py subdomain_file_name (check -h for more options)
 
 # Features
-. Bulk Screenshot Capture: Quickly take screenshots of numerous hosts in one go.
-. Easy Configuration: Customize host lists and screenshot settings with minimal setup.
-. Efficient Performance: Optimized for speed and reliability to handle large numbers of hosts.
+1. Bulk Screenshot Capture: Quickly take screenshots of numerous hosts in one go.
+2. Easy Configuration: Customize host lists and screenshot settings with minimal setup.
+3. Efficient Performance: Optimized for speed and reliability to handle large numbers of hosts.
 
 # Use Cases
-. Security auditing or Reconnaissance
-. Monitoring web services
-. Visual checks for host uptime
+1. Security auditing or Reconnaissance
+2. Monitoring web services
+3. Visual checks for host uptime
