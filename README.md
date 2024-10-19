@@ -9,7 +9,7 @@ Domainshot is a tool for automatically capturing screenshots of a large number o
 
 # Features
 1. Bulk Screenshot Capture: Quickly take screenshots of numerous hosts in one go.
-2. Easy Configuration: Customize host lists and screenshot settings with minimal setup.
+2. Easy to run.
 3. Efficient Performance: Optimized for speed and reliability to handle large numbers of hosts.
 
 # Use Cases
