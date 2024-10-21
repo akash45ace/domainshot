@@ -12,10 +12,11 @@ from PIL import Image
 #banner
 def print_banner():
     banner = """    
-    ==================================
-        D O M A I N S H O T
-    ==================================
-    """                 
+      =========================
+         D O M A I N S H O T  
+    ==============================
+                           by akash
+    """                
     print(banner)
 
 def load_subdomains(file_path):
@@ -74,10 +75,10 @@ def main(subdomains_file, save_path):
     
     for subdomain in subdomains:
         if is_reachable(subdomain):
-            print(f"Taking screenshot of: {subdomain}")
+            print(f"[+] Taking screenshot of: {subdomain}")
             capture_screenshot(driver, subdomain, save_path)
         else:
-            print(f"Subdomain not reachable: {subdomain}")
+            print(f"[-] Subdomain not reachable: {subdomain}")
     
     driver.quit()
 
